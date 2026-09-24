@@ -19,7 +19,7 @@
     >
 </head>
 
-<body class="min-h-screen overflow-hidden">
+<body class="min-h-screen">
     <div
         class="fixed inset-0 z-50 hidden items-center justify-center bg-white text-center
         [@media(max-width:767px)_and_(orientation:portrait)]:flex">
@@ -62,7 +62,7 @@
 
     </header>
 
-    <div class="mx-auto flex h-[calc(100vh-5rem)] lg:gap-30 w-full max-w-6xl items-center px-8">
+    <div class="mx-auto flex min-h-[calc(100vh-5rem)] lg:gap-30 w-full max-w-6xl items-center px-8">
 
         <main class="flex w-3/5 flex-col items-center text-center">
 
