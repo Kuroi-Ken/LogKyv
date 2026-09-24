@@ -7,7 +7,7 @@
 
     @vite('resources/css/app.css')
 
-    <title>Laravel</title>
+    <title>LogKyv</title>
 
     <script src="https://unpkg.com/feather-icons"></script>
 
